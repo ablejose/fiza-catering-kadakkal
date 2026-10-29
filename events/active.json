@@ -1,0 +1,59 @@
+{
+  "slug": "fiza-catering-kadakkal",
+  "name": "Fiza Catering",
+  "shortName": "Fiza",
+  "descriptor": "Catering Services",
+  "address": "Near Public Health Centre, Mathira, Kummil, Kadakkal, Mancode, Keralam 691536",
+  "area": "Kummil",
+  "city": "Kadakkal",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691536",
+  "geo": {
+    "lat": 8.7773378,
+    "lng": 76.9536115
+  },
+  "mapsLink": "https://maps.google.com/?cid=2112736136267030466",
+  "phone": "+91 99462 14298",
+  "whatsapp": "919946214298",
+  "hours": "Open 6 am – 5 pm · all days",
+  "opens": "06:00",
+  "closes": "17:00",
+  "rating": 5,
+  "reviewCount": 110,
+  "reviews": [
+    {
+      "name": "Vineetha V.G.Kurup",
+      "rating": 5,
+      "quote": "Fiza Catering truly exceeded our expectations from start to finish. The food was simply outstanding, with every dish prepared with fresh ingredients and bursting with flavor. ​Beyond the incredible food, what truly set them apart was the impeccable service and the professionalism of the partners."
+    },
+    {
+      "name": "FraiShu FraNcis",
+      "rating": 5,
+      "quote": "Wonderful experience with this team Fiza catering.. came to the event place and set things in perfect time with good tasty food.. i couldn't identify any flaws in them so I rating it as 5 star.. Thank u Fiza.. I will courageously recommend them to anyone."
+    },
+    {
+      "name": "Aliya's World",
+      "rating": 5,
+      "quote": "*Rating*: 5/5 ⭐⭐⭐⭐⭐ *Review*: The food was excellent. The mutton biryani was especially outstanding - perfectly cooked, flavorful, and the meat was very tender. Highly recommended!"
+    },
+    {
+      "name": "Gokul Valsan",
+      "rating": 5,
+      "quote": "Very tastey food and good service 👍 keep do well Recommending to all"
+    },
+    {
+      "name": "Shyni Shan",
+      "rating": 5,
+      "quote": "They serve very unique food. You can experience different flavors in everything. Their service is excellent. For the past six years, all my family functions have been their food. Very good catering service.🥰👍🏻👍🏻👍🏻👍🏻keep going well"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://fiza-catering-kadakkal.vercel.app"
+}
